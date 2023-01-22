@@ -1,0 +1,132 @@
+[
+    {
+        "tank": {
+            "name": "M1A2 Abrams",
+            "country": "United States",
+            "weight": 68.2,
+            "height": 2.44,
+            "width": 3.67,
+            "hhp": 1500,
+            "armament": "M256 120mm smoothbore gun, .50 cal machine gun, 7.62mm machine gun",
+            "year": 1980,
+            "inUse": true
+        }
+    },
+    {
+        "tank": {
+            "name": "Leclerc",
+            "country": "France",
+            "weight": 55.0,
+            "height": 2.17,
+            "width": 3.35,
+            "hhp": 1200,
+            "armament": "Giat CN120-26 120mm smoothbore gun, 7.62mm coaxial machine gun, 7.62mm anti-aircraft machine gun",
+            "year": 1992,
+            "inUse": true
+        }
+    },
+    {
+        "tank": {
+            "name": "Challenger 2",
+            "country": "United Kingdom",
+            "weight": 62.5,
+            "height": 2.49,
+            "width": 3.56,
+            "hhp": 1200,
+            "armament": "L30A1 120mm rifled gun, 7.62mm coaxial machine gun, 7.62mm anti-aircraft machine gun",
+            "year": 1998,
+            "inUse": true
+        }
+    },
+    {
+        "tank": {
+            "name": "Leopard 2A7",
+            "country": "Germany",
+            "weight": 65.8,
+            "height": 2.28,
+            "width": 3.75,
+            "hhp": 1500,
+            "armament": "Rheinmetall 120mm smoothbore gun, 7.62mm coaxial machine gun, 7.62mm anti-aircraft machine gun",
+            "year": 2007,
+            "inUse": true
+        }
+    },
+    {
+        "tank": {
+            "name": "Type 10",
+            "country": "Japan",
+            "weight": 48.5,
+            "height": 2.17,
+            "width": 3.35,
+            "hhp": 1200,
+            "armament": "120mm smoothbore gun, 7.62mm coaxial machine gun, 7.62mm anti-aircraft machine gun",
+            "year": 2012,
+            "inUse": true
+        }
+    },
+    {
+        "tank": {
+            "name": "T-90A",
+            "country": "Russia",
+            "weight": 48.2,
+            "height": 2.17,
+            "width": 3.65,
+            "hhp": 1200,
+            "armament": "2A46M 125mm smoothbore gun, 12.7mm machine gun, 7.62mm machine gun",
+            "year": 1985,
+            "inUse": true
+        }
+    },
+    {
+        "tank": {
+            "name": "Type 96",
+            "country": "China",
+            "weight": 55.0,
+            "height": 2.17,
+            "width": 3.35,
+            "hhp": 1200,
+            "armament": "125mm smoothbore gun, 12.7mm machine gun, 7.62mm machine gun",
+            "year": 1992,
+            "inUse": true
+        }
+    },
+    {
+        "tank": {
+            "name": "K2 Black Panther",
+            "country": "South Korea",
+            "weight": 50.5,
+            "height": 2.17,
+            "width": 3.35,
+            "hhp": 1500,
+            "armament": "120mm smoothbore gun, 7.62mm coaxial machine gun, 7.62mm anti-aircraft machine gun",
+            "year": 2014,
+            "inUse": true
+        }
+    },
+    {
+        "tank": {
+            "name": "Al-Khalid",
+            "country": "Pakistan",
+            "weight": 44.5,
+            "height": 2.17,
+            "width": 3.35,
+            "hhp": 1000,
+            "armament": "125mm smoothbore gun, 7.62mm coaxial machine gun, 7.62mm anti-aircraft machine gun",
+            "year": 2001,
+            "inUse": true
+        }
+    },
+    {
+        "tank": {
+            "name": "Merkava Mk 4",
+            "country": "Israel",
+            "weight": 62.5,
+            "height": 2.49,
+            "width": 3.56,
+            "hhp": 1200,
+            "armament": "120mm smoothbore gun, 7.62mm coaxial machine gun, 7.62mm anti-aircraft machine gun",
+            "year": 2004,
+            "inUse": true
+        }
+    }
+]
