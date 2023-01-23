@@ -1,20 +1,19 @@
-const express = require("express");
-const app = express();
-const fs = require("fs");
+import express from "express";
+import fs from "fs";
 
-const database = fs.readFileSync("db.json");
+const app = express();
+const PORT = process.env.PORT || 3000;
+const database = fs.readFileSync("./json/db.json");
 const db = JSON.parse(database);
-console.log(db);
 
 app.get("/", (req, res) => {
-    res.send(db);
+  res.send(db);
 });
 
 app.get("/ping", (req, res) => {
-    res.sendStatus(200);
-})
+  res.sendStatus(200);
+});
 
-
-app.listen(3000, () => {
-    console.log("Server running on port 3000");
+app.listen(PORT, () => {
+  console.log("Server running on port 3000");
 });

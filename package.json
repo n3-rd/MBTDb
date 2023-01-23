@@ -2,6 +2,7 @@
   "name": "mbtdb",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "description": "A database of Main Battle Tanks",
   "license": "MIT",
   "dependencies": {
